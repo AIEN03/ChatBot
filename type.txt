@@ -1,0 +1,13 @@
+﻿{
+  "entries": [{
+      "synonyms": ["台積電", "2330"],
+      "value": "2330"
+    },
+    {
+      
+      "synonyms": ["鴻海", "2317"],
+      "value": "2317"
+    }
+  ],
+  "name": "companyyy"
+}
